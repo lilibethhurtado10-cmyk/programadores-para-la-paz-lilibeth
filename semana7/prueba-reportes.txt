@@ -1,0 +1,1 @@
+Al registrar un reporte mediante una petición POST, el sistema lo guarda en la lista de reportes. Cuando se consulta la ruta GET /reportes, se muestra un arreglo con todos los reportes registrados mientras el servidor está en ejecución.
